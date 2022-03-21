@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou Leandro Nunes
 - 🔭 Hoje trabalho com front-end
-- 📖 Estudando Javascript, React.js, Node.js
+- 📖 Javascript, React.js, Node.js
 
 <div align="center">
   <a href="https://github.com/leonunesdev">
