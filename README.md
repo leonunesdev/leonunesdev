@@ -1,5 +1,5 @@
 - 👋 Olá. Seja bem vindo(a) ao meu Github.
-- 🔭 Desenvolvedor web front-end.
+- 💻 Desenvolvedor front-end.
 
 <div display="flex" align="center"> 
    <a target="_blank" href="https://www.linkedin.com/in/leandro-nunes-668b41160/"> 
