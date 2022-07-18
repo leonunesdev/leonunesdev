@@ -2,8 +2,8 @@
 - 🔭 Desenvolvedor web front-end.
 
 <div display="flex" align="center"> 
-   <a href="https://www.linkedin.com/in/leandro-nunes-668b41160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a target="_blank" href="https://outlook.live.com/mail/0/?actSwt=true"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/leandro-nunes-668b41160/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href="https://outlook.live.com/mail/0/?actSwt=true"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 <div align="center">
