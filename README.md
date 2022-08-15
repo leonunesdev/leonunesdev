@@ -2,10 +2,10 @@
 - 💻 Desenvolvedor front-end.
 
 <div display="flex" align="center"> 
-   <a target="_blank" href="mailto:leandronunesdev@outlook.com"> 
+   <a target="_blank" href="https://www.linkedin.com/in/leandro-nunes-668b41160/"> 
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
-  <a target="_blank" href="https://outlook.live.com/mail/0/?actSwt=true"> 
+  <a target="_blank" href="mailto:leandronunesdev@outlook.com"> 
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 </div>
