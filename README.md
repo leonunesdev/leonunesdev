@@ -1,6 +1,9 @@
 <h1>👋 Olá. Seja bem vindo(a) ao meu Github.</h1>
-<h2>💻 Sou um Desenvolvedor front-end.</h2>
 
+<h3>💻 Sou um Desenvolvedor front-end com experiência em JavaScript - React - TailwindCSS e Typescript</h3>
+
+<h3>📖 Atualmente focado em React, TailwindCSS e Typescript.</h3>
+<br>
 <div display="flex" align="center"> 
    <a target="_blank" href="https://www.linkedin.com/in/leandro-nunes-668b41160/"> 
       <img width="150rem" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
