@@ -1,4 +1,4 @@
-<h1>👋 Olá. Seja bem vindo(a) ao meu Github.</h1>
+<h1 align="center">👋 Olá. Seja bem vindo(a) ao meu Github.</h1>
 
 <h3>💻 Sou um Desenvolvedor web com experiência em JavaScript - React - TailwindCSS e Typescript</h3>
 
