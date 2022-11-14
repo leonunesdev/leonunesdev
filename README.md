@@ -1,12 +1,12 @@
-- 👋 Olá. Seja bem vindo(a) ao meu Github.
-- 💻 Sou um Desenvolvedor front-end.
+<h1>👋 Olá. Seja bem vindo(a) ao meu Github.</h1>
+<h2>💻 Sou um Desenvolvedor front-end.</h2>
 
 <div display="flex" align="center"> 
    <a target="_blank" href="https://www.linkedin.com/in/leandro-nunes-668b41160/"> 
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="150rem" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
   <a target="_blank" href="mailto:leandronunesdev@outlook.com"> 
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+     <img width="120rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 </div>
 
