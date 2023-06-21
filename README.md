@@ -5,7 +5,7 @@
 <h3>📖 Atualmente focado em React, TailwindCSS e Typescript.</h3>
 <br>
 <div display="flex" align="center"> 
-   <a target="_blank" href="https://www.linkedin.com/in/leandro-nunes-668b41160/"> 
+   <a target="_blank" href="https://www.linkedin.com/in/leandro-nunes-souza-front-end/"> 
       <img width="150rem" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
   <a target="_blank" href="mailto:leandronunesdev@outlook.com"> 
@@ -25,4 +25,8 @@
   <img align="center" alt="Leo-Tsx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+<br>
+<div align="center">
+<a href="https://app.daily.dev/leo_dev"><img src="https://api.daily.dev/devcards/8f2ca85e3ba14034a534425ac7a16c44.png?r=9rj" width="320" alt="Leandro Nunes de Souza's Dev Card"/></a>
 </div>
